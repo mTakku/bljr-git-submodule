@@ -75,7 +75,7 @@ GIT BRANCH
 
    H.Forking Workflow
 
-     1.Forking Workflow adalah hal yang umum dalam proyek sumber terbuka, di mana kontributor menduplikasi repositori utama, membuat perubahan dalam fork mereka, dan kemudian meminta perubahan tersebut untuk digabungkan ke dalam proyek utama.
+     1.Forking Workflow adalah hal yang umum dalam project open source, di mana kontributor menduplikasi repositori utama, membuat perubahan dalam fork mereka, dan kemudian meminta perubahan tersebut untuk digabungkan ke dalam proyek utama.
 
      2.Forking Workflow memungkinkan kolaborasi sambil mempertahankan kontrol atas repositori utama dan memastikan perubahan ditinjau sebelum integrasi.
 
